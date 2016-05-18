@@ -4,4 +4,4 @@
 
 > 硬件设备ISSUE处理
 
-+ [2016.5.17 Kindle Paperwhite2的MAC地址无效]
++ [2016.5.17 Kindle Paperwhite2的MAC地址无效](https://github.com/hashmaparraylist/Issue/issues/2)
